@@ -10,6 +10,8 @@ Fast python codes run with cython :)
 
 ```
 git clone https://github.com/dori-dev/faster-python-run.git
+```
+```
 cd faster-python-run
 ```
 
@@ -19,5 +21,7 @@ Go to the directory you want and run the following commands
 
 ```
 python setup.py build_ext --inplace
+```
+```
 python main.py
 ```
