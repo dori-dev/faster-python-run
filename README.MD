@@ -3,7 +3,6 @@
 Fast python codes run with cython :)
 
 #
-
 # How to Use
 
 ## Install Cython
@@ -35,7 +34,6 @@ python main.py
 ```
 
 #
-
 # Links
 
 Download Source Code: [Click Here](https://github.com/dori-dev/faster-python-run/archive/refs/heads/master.zip)
