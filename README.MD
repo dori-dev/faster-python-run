@@ -38,4 +38,4 @@ python main.py
 
 Download Source Code: [Click Here](https://github.com/dori-dev/faster-python-run/archive/refs/heads/master.zip)
 
-My Github Acount: [Click Here](https://github.com/dori-dev/)
+My Github Account: [Click Here](https://github.com/dori-dev/)
